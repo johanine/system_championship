@@ -14,6 +14,6 @@
 @stop
 
 @section('contenido')
-    {{}}
+    {{//hola soy alberto}}
 @stop
 
